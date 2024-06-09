@@ -1,7 +1,7 @@
 
 
 # Nova toolbox
-Little tool which helps me in writing guides using Laravel Nova for [SnowCrows](www.snowcrows.com). Laravel Nova has one big issue I always ran into: there is no easy way to move repeater fields (the things we use for headers, grids, text, ...). This meant that anytime I wanted to add a new field to the top of a guide I had to manually click ~150 times. I hated it so I wrote this tool for it.
+Little tool which helps me in writing guides using Laravel Nova for [SnowCrows](https://www.snowcrows.com). Laravel Nova has one big issue I always ran into: there is no easy way to move repeater fields (the things we use for headers, grids, text, ...). This meant that anytime I wanted to add a new field to the top of a guide I had to manually click ~150 times. I hated it so I wrote this tool for it.
 
 ![toolbox](./assets/toolbox.png)
 
